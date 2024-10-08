@@ -96,5 +96,3 @@ for row in modified_transpose:
 print("\nModified Gram-Schmidt Product with its Transpose:")
 for row in modified_product:
     print(row)
-
-# https://laurenthoeltgen.name/post/gram-schmidt/
